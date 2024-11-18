@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there!
+![GitHub Banner](https://github.com/user-attachments/assets/e464a6b0-5ff3-48e0-875d-8374fcbf1223)
 
 <!--
 **Takreem-Jaffery/Takreem-Jaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
