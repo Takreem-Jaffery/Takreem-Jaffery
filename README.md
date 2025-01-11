@@ -7,7 +7,7 @@ I'm really interested in mobile app, website and game development. And in my fre
 I'm currently working on expanding my community reach and meeting like-minded people. 
 I'm always available to discuss ideas about collaborative projects. 
 
-- 🔭 I’m currently working on a UML Designer project on JAVA using Swing!
+- 🔭 I’m currently working on learning React Native!
 - 🌱 I’m interested in learning about Machine Learning and development on Python, HTML, CSS, Javascript.
 - 📫 How to reach me: I'm available through email, and you can connect with me on my LinkedIn.
 <!--
