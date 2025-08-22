@@ -1,14 +1,14 @@
 # Hi there!
 ![GitHub Banner](https://github.com/user-attachments/assets/e464a6b0-5ff3-48e0-875d-8374fcbf1223)
 
-Hi, I'm Takreem Jaffery, currently in the 3rd year of BS Software Engineering at FAST-NUCES.
+Hi, I'm Takreem Jaffery, currently in my 4th year of BS Software Engineering at FAST-NUCES.
 I'm really interested in mobile app, website and game development. And in my free time I like to explore tools like Unity, Blender and Figma!
 
 I'm currently working on expanding my community reach and meeting like-minded people. 
 I'm always available to discuss ideas about collaborative projects. 
 
 - 🔭 I’m currently working on learning React Native!
-- 🌱 I’m interested in learning about Machine Learning and development on Python, HTML, CSS, Javascript.
+- 🌱 I’m interested in learning about Speech Recognition, Computer Vision and LLMs!
 - 📫 How to reach me: I'm available through email, and you can connect with me on my LinkedIn.
 <!--
 **Takreem-Jaffery/Takreem-Jaffery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
