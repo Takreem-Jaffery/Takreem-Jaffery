@@ -5,8 +5,10 @@
 I’m a Software Engineer interested in building practical AI systems and user-facing software. I enjoy taking ideas from prototype → production, particularly at the intersection of AI, software engineering, and accessible technology.
 
 ## 🚀 What I'm Building
-- 🤖 RAAI (Rural AI Avatar Interface) — Built and shipped an AI-powered multilingual avatar integrated into Kashf Foundation's mobile application, supporting speech interaction across English and Urdu.
+- 🕵️ Jobatron — A checkpointed, locally-run AI job-hunt agent that pulls live postings straight from company ATS platforms (Greenhouse, Lever, Ashby), ranks them against your resume using a local LLM (Nemotron via Ollama), drafts a tailored resume and cover letter per job, and logs everything to your Excel tracker — with a human always in the loop before anything is submitted.
+- 🔍 Glassware — A cross-platform UI/UX library bringing a customizable "liquid glass" effect (frosted/watery blur) to interface elements, with automatic WCAG-based contrast so text stays legible over any background. Currently shipping for web (TypeScript/CSS), with Android and iOS ports planned.
 - 🧠 Nexus — Continuously developing a real-time video communication platform using WebRTC, Socket.IO, and AI-powered features.
+- 🤖 RAAI (Rural AI Avatar Interface) — Built and shipped an AI-powered multilingual avatar integrated into Kashf Foundation's mobile application, supporting speech interaction across English and Urdu.
 
 ## 💡 What I Care About
 I’m particularly interested in AI engineering, applied machine learning, developer tools, and building software that solves real problems. I’m always experimenting with new technologies and looking for opportunities to collaborate on ambitious projects.
