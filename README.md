@@ -15,7 +15,7 @@ I’m particularly interested in AI engineering, applied machine learning, devel
 
 ## 📫 Let's Connect
 - Email: [takreem.jaffery@gmail.com](mailto:takreem.jaffery@gmail.com)
-- LinkedIn: [linkedin.com/in/takreem-jaffery](https://linkedin.com/in/www.linkedin.com/in/takreem-jaffery).
+- LinkedIn: [linkedin.com/in/takreem-jaffery](https://linkedin.com/in/takreem-jaffery).
 - GitHub: You're already here 😄
 
 # 💻 Tech Stack:
